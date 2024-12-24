@@ -1,0 +1,14 @@
+autologin.canonical_username="hifivejazz"
+autologin.username="hifivejazz"
+autologin.saved_credentials="{\"hifivejazz\":[\"hifivejazz\",\"Cn/YPUN47bLl8x/5c3vJ+MoYOoqSsltGWwXT9UuQ+3kpO27WKC4eBG+LbgJwXunXjLxDOhh3pHqp49isMqmW3pV5VxpnFjnMVous+wchpLSnY5pc4VvxUh8sno+9j66JWcbJXaK6zHOmjtTbHv0KIa4s++SHIEKxSGT/1sB7zwauV4ohNYGsqoYBJd+UMmHk12PN+zDF0MY89It7aGlJdxjZcZhuGNxeiGoDLxGXCez/na1aGFFNXrBmRcY/ykgTZk+ZVH5W5YvNrSItph/U9kDOGn9aSrKOL4y78XPyeLU=\"]}"
+autologin.blob="Cn/YPUN47bLl8x/5c3vJ+MoYOoqSsltGWwXT9UuQ+3kpO27WKC4eBG+LbgJwXunXjLxDOhh3pHqp49isMqmW3pV5VxpnFjnMVous+wchpLSnY5pc4VvxUh8sno+9j66JWcbJXaK6zHOmjtTbHv0KIa4s++SHIEKxSGT/1sB7zwauV4ohNYGsqoYBJd+UMmHk12PN+zDF0MY89It7aGlJdxjZcZhuGNxeiGoDLxGXCez/na1aGFFNXrBmRcY/ykgTZk+ZVH5W5YvNrSItph/U9kDOGn9aSrKOL4y78XPyeLU="
+es.send-on-startup=true
+core.clock_delta=0
+app.window.position.saved=true
+app.window.position.height=980
+app.window.position.y=79
+storage.last-location="/home/jazz/.cache/spotify/Storage"
+app.window.state.saved=true
+app.window.position.width=1888
+app.window.position.x=21
+app.last-launched-version="1.2.47.364.gf06e5cee"

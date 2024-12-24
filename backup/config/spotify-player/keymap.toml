@@ -1,0 +1,15 @@
+[[keymaps]]
+command = "FocusNextWindow"
+key_sequence = "l"
+[[keymaps]]
+command = "FocusPreviousWindow"
+key_sequence = "h"
+[[keymaps]]
+command = "SwitchTheme"
+key_sequence = "t"
+[[keymaps]]
+command = "Repeat"
+key_sequence = "r"
+[[keymaps]]
+command = "RefreshPlayback"
+key_sequence = "C-r"

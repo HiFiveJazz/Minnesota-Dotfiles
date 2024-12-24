@@ -1,0 +1,225 @@
+17:47:10.047: Using EGL/X11
+17:47:10.047: CPU Name: AMD Ryzen 9 5900X 12-Core Processor
+17:47:10.047: CPU Speed: 4199.884MHz
+17:47:10.048: Physical Cores: 12, Logical Cores: 24
+17:47:10.048: Physical Memory: 31997MB Total, 25418MB Free
+17:47:10.048: Kernel Version: Linux 6.11.2-arch1-1
+17:47:10.048: Distribution: "Arch Linux" Unknown
+17:47:10.048: Desktop Environment: 
+17:47:10.048: Session Type: x11
+17:47:10.048: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.21.1
+17:47:10.048: Qt Version: 6.7.3 (runtime), 6.7.2 (compiled)
+17:47:10.048: Portable mode: false
+17:47:10.080: OBS 30.2.1-1 (linux)
+17:47:10.080: ---------------------------------
+17:47:10.080: ---------------------------------
+17:47:10.080: audio settings reset:
+17:47:10.080: 	samples per sec: 48000
+17:47:10.080: 	speakers:        2
+17:47:10.080: 	max buffering:   960 milliseconds
+17:47:10.080: 	buffering type:  dynamically increasing
+17:47:10.084: ---------------------------------
+17:47:10.084: Initializing OpenGL...
+17:47:10.194: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 3060/PCIe/SSE2
+17:47:10.194: OpenGL loaded successfully, version 3.3.0 NVIDIA 560.35.03, shading language 3.30 NVIDIA via Cg compiler
+17:47:10.302: ---------------------------------
+17:47:10.302: video settings reset:
+17:47:10.302: 	base resolution:   1920x1080
+17:47:10.302: 	output resolution: 1280x720
+17:47:10.302: 	downscale filter:  Bicubic
+17:47:10.302: 	fps:               30/1
+17:47:10.302: 	format:            NV12
+17:47:10.302: 	YUV mode:          Rec. 709/Partial
+17:47:10.302: NV12 texture support enabled
+17:47:10.302: P010 texture support not available
+17:47:10.303: Audio monitoring device:
+17:47:10.303: 	name: Default
+17:47:10.303: 	id: default
+17:47:10.303: ---------------------------------
+17:47:10.310: Failed to load 'en-US' text for module: 'decklink-captions.so'
+17:47:10.317: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+17:47:10.324: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+17:47:10.324: Failed to initialize module 'decklink.so'
+17:47:10.444: [pipewire] No capture sources available
+17:47:10.462: v4l2loopback not installed, virtual camera not registered
+17:47:10.545: NVENC supported
+17:47:10.545: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+17:47:10.545: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+17:47:10.545: FFmpeg VAAPI H264 encoding not supported
+17:47:10.545: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+17:47:10.545: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+17:47:10.545: FFmpeg VAAPI AV1 encoding not supported
+17:47:10.545: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+17:47:10.546: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+17:47:10.546: FFmpeg VAAPI HEVC encoding not supported
+17:47:10.637: ---------------------------------
+17:47:10.637:   Loaded Modules:
+17:47:10.637:     text-freetype2.so
+17:47:10.637:     rtmp-services.so
+17:47:10.637:     obs-x264.so
+17:47:10.637:     obs-webrtc.so
+17:47:10.637:     obs-vst.so
+17:47:10.637:     obs-transitions.so
+17:47:10.637:     obs-qsv11.so
+17:47:10.637:     obs-outputs.so
+17:47:10.637:     obs-libfdk.so
+17:47:10.637:     obs-filters.so
+17:47:10.637:     obs-ffmpeg.so
+17:47:10.637:     linux-v4l2.so
+17:47:10.637:     linux-pulseaudio.so
+17:47:10.637:     linux-pipewire.so
+17:47:10.637:     linux-jack.so
+17:47:10.637:     linux-capture.so
+17:47:10.637:     linux-alsa.so
+17:47:10.637:     image-source.so
+17:47:10.637:     frontend-tools.so
+17:47:10.637:     decklink-output-ui.so
+17:47:10.637:     decklink-captions.so
+17:47:10.637: ---------------------------------
+17:47:10.637: ---------------------------------
+17:47:10.637: Available Encoders:
+17:47:10.637:   Video Encoders:
+17:47:10.637: 	- ffmpeg_svt_av1 (SVT-AV1)
+17:47:10.637: 	- ffmpeg_aom_av1 (AOM AV1)
+17:47:10.637: 	- jim_nvenc (NVIDIA NVENC H.264)
+17:47:10.637: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+17:47:10.637: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+17:47:10.637: 	- obs_x264 (x264)
+17:47:10.637:   Audio Encoders:
+17:47:10.637: 	- ffmpeg_aac (FFmpeg AAC)
+17:47:10.637: 	- ffmpeg_opus (FFmpeg Opus)
+17:47:10.637: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+17:47:10.637: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+17:47:10.637: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+17:47:10.637: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+17:47:10.637: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+17:47:10.637: 	- libfdk_aac (libfdk AAC)
+17:47:10.637: ==== Startup complete ===============================================
+17:47:10.640: No scene file found, creating default scene
+17:47:10.742: All scene data cleared
+17:47:10.742: ------------------------------------------------
+17:47:10.750: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.5) 15.0.0'
+17:47:10.750: pulse-input: Audio format: s16le, 48000 Hz, 2 channels
+17:47:10.750: pulse-input: Started recording from 'alsa_output.usb-Blue_Microphones_Yeti_Stereo_Microphone_REV8-00.analog-stereo.monitor' (default)
+17:47:10.751: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.5) 15.0.0'
+17:47:10.751: pulse-input: Audio format: s16le, 32000 Hz, 2 channels
+17:47:10.751: pulse-input: Started recording from 'alsa_input.usb-046d_HD_Pro_Webcam_C920_709BB8AF-02.analog-stereo' (default)
+17:47:10.751: Switched to scene 'Scene'
+17:47:10.751: Failed to glob scene collections
+17:47:11.318: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+17:47:11.318: 
+17:47:11.506: [rtmp-services plugin] Successfully updated file 'services.json' (version 264)
+17:47:11.506: [rtmp-services plugin] Successfully updated package (version 264)
+17:47:23.733: 
+17:47:23.733: ==== Auto-config wizard testing commencing ======
+
+17:49:08.072: Number of remaining views: 1
+17:49:08.072: ---------------------------------
+17:49:08.073: video settings reset:
+17:49:08.073: 	base resolution:   3840x1080
+17:49:08.073: 	output resolution: 2556x720
+17:49:08.073: 	downscale filter:  Bicubic
+17:49:08.073: 	fps:               60/1
+17:49:08.073: 	format:            NV12
+17:49:08.073: 	YUV mode:          Rec. 709/Partial
+17:49:08.073: NV12 texture support enabled
+17:49:08.073: P010 texture support not available
+17:49:08.077: 
+17:49:08.077: ==== Auto-config wizard testing stopping ========
+
+17:49:22.643: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:49:22.643: 	title: Create/Select Source
+17:49:22.643: 	class: obs
+17:49:22.643: 
+17:49:22.646: User added source 'Window Capture (Xcomposite)' (xcomposite_input) to scene 'Scene'
+17:49:22.675: [window-capture: 'Window Capture (Xcomposite)'] update settings:
+17:49:22.675: 	title: OBS 30.2.1-1 - Profile: Untitled - Scenes: Untitled
+17:49:22.675: 	class: obs
+17:49:22.675: 
+17:49:32.567: xshm-input: Geometry 3840x1080 @ 0,0
+17:49:32.569: User added source 'Display Capture (XSHM)' (xshm_input) to scene 'Scene'
+17:49:47.880: [obs-nvenc: 'simple_video_recording'] settings:
+17:49:47.880: 	codec:        H264
+17:49:47.880: 	rate_control: CQP
+17:49:47.880: 	bitrate:      0
+17:49:47.880: 	cqp:          23
+17:49:47.880: 	keyint:       250
+17:49:47.880: 	preset:       p5
+17:49:47.880: 	tuning:       hq
+17:49:47.880: 	multipass:    qres
+17:49:47.880: 	profile:      high
+17:49:47.880: 	width:        2556
+17:49:47.880: 	height:       720
+17:49:47.880: 	b-frames:     2
+17:49:47.880: 	lookahead:    false
+17:49:47.880: 	psycho_aq:    true
+17:49:47.880: 
+17:49:47.921: libfdk_aac encoder created
+17:49:47.921: libfdk_aac bitrate: 192, channels: 2
+17:49:47.923: ==== Recording Start ===============================================
+17:49:47.923: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jazz/2024-10-06 17-49-47.mkv'...
+17:49:47.926: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+17:57:33.414: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jazz/2024-10-06 17-49-47.mkv' stopped
+17:57:33.414: Output 'simple_file_output': stopping
+17:57:33.414: Output 'simple_file_output': Total frames output: 27916
+17:57:33.414: Output 'simple_file_output': Total drawn frames: 27930
+17:57:33.414: ==== Recording Stop ================================================
+17:57:33.736: libfdk_aac encoder destroyed
+17:58:30.304: [obs-nvenc: 'simple_video_recording'] settings:
+17:58:30.304: 	codec:        H264
+17:58:30.304: 	rate_control: CQP
+17:58:30.304: 	bitrate:      0
+17:58:30.304: 	cqp:          23
+17:58:30.304: 	keyint:       250
+17:58:30.304: 	preset:       p5
+17:58:30.304: 	tuning:       hq
+17:58:30.304: 	multipass:    qres
+17:58:30.304: 	profile:      high
+17:58:30.304: 	width:        2556
+17:58:30.304: 	height:       720
+17:58:30.304: 	b-frames:     2
+17:58:30.304: 	lookahead:    false
+17:58:30.304: 	psycho_aq:    true
+17:58:30.304: 
+17:58:30.336: libfdk_aac encoder created
+17:58:30.336: libfdk_aac bitrate: 192, channels: 2
+17:58:30.338: ==== Recording Start ===============================================
+17:58:30.338: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jazz/2024-10-06 17-58-30.mkv'...
+17:58:30.339: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+17:58:30.912: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jazz/2024-10-06 17-58-30.mkv' stopped
+17:58:30.912: Output 'simple_file_output': stopping
+17:58:30.912: Output 'simple_file_output': Total frames output: 22
+17:58:30.912: Output 'simple_file_output': Total drawn frames: 34 (35 attempted)
+17:58:30.912: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (2.9%)
+17:58:30.912: Video stopped, number of skipped frames due to encoding lag: 1/33 (3.0%)
+17:58:30.912: ==== Recording Stop ================================================
+17:58:31.115: libfdk_aac encoder destroyed
+18:05:01.600: [obs-nvenc: 'simple_video_recording'] settings:
+18:05:01.600: 	codec:        H264
+18:05:01.600: 	rate_control: CQP
+18:05:01.600: 	bitrate:      0
+18:05:01.600: 	cqp:          23
+18:05:01.600: 	keyint:       250
+18:05:01.600: 	preset:       p5
+18:05:01.600: 	tuning:       hq
+18:05:01.600: 	multipass:    qres
+18:05:01.600: 	profile:      high
+18:05:01.600: 	width:        2556
+18:05:01.600: 	height:       720
+18:05:01.600: 	b-frames:     2
+18:05:01.600: 	lookahead:    false
+18:05:01.600: 	psycho_aq:    true
+18:05:01.600: 
+18:05:01.634: libfdk_aac encoder created
+18:05:01.634: libfdk_aac bitrate: 192, channels: 2
+18:05:01.636: ==== Recording Start ===============================================
+18:05:01.636: [ffmpeg muxer: 'simple_file_output'] Writing file '/home/jazz/2024-10-06 18-05-01.mkv'...
+18:05:01.638: Failed to inhibit: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “org.freedesktop.portal.Inhibit” on object at path /org/freedesktop/portal/desktop
+18:09:48.132: [ffmpeg muxer: 'simple_file_output'] Output of file '/home/jazz/2024-10-06 18-05-01.mkv' stopped
+18:09:48.132: Output 'simple_file_output': stopping
+18:09:48.132: Output 'simple_file_output': Total frames output: 17177
+18:09:48.132: Output 'simple_file_output': Total drawn frames: 17189 (17190 attempted)
+18:09:48.132: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 1 (0.0%)
+18:09:48.132: Video stopped, number of skipped frames due to encoding lag: 1/17188 (0.0%)
+18:09:48.132: ==== Recording Stop ================================================
+18:09:48.415: libfdk_aac encoder destroyed

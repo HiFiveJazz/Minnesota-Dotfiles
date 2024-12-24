@@ -1,0 +1,38 @@
+theme = "tokyonight"
+# client_id = "9e597924df6d4645a28ff10114c4092c"
+# client_id = "7ae034cf1adb9425848f249e9f5962c2800fbdc0"
+# client_port = 8888
+# client_id = "65b708073fc0480ea92a077233ca87bd"
+# client_port = 8080
+playback_format = "{track} • {artists}\n{album}\n{metadata}"
+tracks_playback_limit = 50
+app_refresh_duration_in_ms = 32
+playback_refresh_duration_in_ms = 0
+page_size_in_rows = 20
+play_icon = "▶"
+pause_icon = "▌▌"
+liked_icon = "♥"
+border_type = "Rounded"
+progress_bar_type = "Line"
+playback_window_position = "Bottom"
+playback_window_width = 4
+enable_media_control = true
+enable_streaming = "Always"
+enable_cover_image_cache = true
+default_device = "ArchLinux"
+
+[copy_command]
+command = "xclip"
+args = [
+    "-sel",
+    "c",
+]
+
+[device]
+name = "ArchLinux"
+device_type = "computer"
+volume = 90
+bitrate = 160
+audio_cache = true
+normalization = false
+

@@ -1,0 +1,12 @@
+body {
+    background-color: rgba(255, 255, 255, 0.5); /* 50% transparent white background */
+    color: rgba(0, 0, 0, 1); /* Fully opaque text */
+}
+
+/* Additional CSS to ensure other elements are styled properly */
+.container {
+    background-color: rgba(0, 0, 0, 0.3); /* Slightly transparent container */
+    color: rgba(255, 255, 255, 1); /* Fully opaque text inside container */
+    padding: 20px;
+    border-radius: 10px;
+}

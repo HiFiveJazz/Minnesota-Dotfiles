@@ -1,0 +1,1140 @@
+2024-07-09T23:50:09.117Z [Modules] Modules initializing
+2024-07-09T23:50:09.117Z [Modules] Distribution: remote
+2024-07-09T23:50:09.117Z [Modules] Host updates: enabled
+2024-07-09T23:50:09.118Z [Modules] Module updates: enabled
+2024-07-09T23:50:09.118Z [Modules] Module install path: /home/jazz/.config/discord/0.0.59/modules
+2024-07-09T23:50:09.118Z [Modules] Module installed file path: /home/jazz/.config/discord/0.0.59/modules/installed.json
+2024-07-09T23:50:09.118Z [Modules] Module download path: /home/jazz/.config/discord/0.0.59/modules/pending
+2024-07-09T23:50:09.488Z [Modules] Bootstrapping...
+2024-07-09T23:50:09.488Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-07-09T23:50:09.490Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-07-09T23:50:09.490Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-07-09T23:50:09.501Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-07-09T23:50:09.502Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-07-09T23:50:09.503Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-07-09T23:50:09.504Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-07-09T23:50:09.506Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-07-09T23:50:09.506Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-07-09T23:50:09.506Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-07-09T23:50:09.506Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-07-09T23:50:09.507Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-07-09T23:50:09.507Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-07-09T23:50:09.507Z [Modules] Checking for host updates.
+2024-07-09T23:50:09.753Z [Modules] Host is up to date.
+2024-07-09T23:50:09.753Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-09T23:50:09.779Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-07-09T23:50:09.779Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-07-09T23:50:09.779Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-07-09T23:50:09.779Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-07-09T23:50:09.780Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-07-09T23:50:09.780Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-07-09T23:50:09.780Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-07-09T23:50:09.780Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip
+2024-07-09T23:50:09.994Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 2%
+2024-07-09T23:50:10.014Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 5%
+2024-07-09T23:50:10.033Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 8%
+2024-07-09T23:50:10.034Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 10%
+2024-07-09T23:50:10.035Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 13%
+2024-07-09T23:50:10.038Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 15%
+2024-07-09T23:50:10.051Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 18%
+2024-07-09T23:50:10.052Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 19%
+2024-07-09T23:50:10.053Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 22%
+2024-07-09T23:50:10.054Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 25%
+2024-07-09T23:50:10.056Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 28%
+2024-07-09T23:50:10.057Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 31%
+2024-07-09T23:50:10.059Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 34%
+2024-07-09T23:50:10.060Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 36%
+2024-07-09T23:50:10.062Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 39%
+2024-07-09T23:50:10.073Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 42%
+2024-07-09T23:50:10.075Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 45%
+2024-07-09T23:50:10.075Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 46%
+2024-07-09T23:50:10.076Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 49%
+2024-07-09T23:50:10.076Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 50%
+2024-07-09T23:50:10.078Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 53%
+2024-07-09T23:50:10.079Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 56%
+2024-07-09T23:50:10.080Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 59%
+2024-07-09T23:50:10.081Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 62%
+2024-07-09T23:50:10.082Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 63%
+2024-07-09T23:50:10.084Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 66%
+2024-07-09T23:50:10.084Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 69%
+2024-07-09T23:50:10.086Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 72%
+2024-07-09T23:50:10.087Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 75%
+2024-07-09T23:50:10.088Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 78%
+2024-07-09T23:50:10.089Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 81%
+2024-07-09T23:50:10.091Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 83%
+2024-07-09T23:50:10.096Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 86%
+2024-07-09T23:50:10.096Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 87%
+2024-07-09T23:50:10.097Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 90%
+2024-07-09T23:50:10.098Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 93%
+2024-07-09T23:50:10.098Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 94%
+2024-07-09T23:50:10.100Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 99%
+2024-07-09T23:50:10.100Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip: 100%
+2024-07-09T23:50:10.101Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-07-09T23:50:10.101Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip
+2024-07-09T23:50:10.205Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 3%
+2024-07-09T23:50:10.207Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 6%
+2024-07-09T23:50:10.207Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 8%
+2024-07-09T23:50:10.208Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 11%
+2024-07-09T23:50:10.209Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 14%
+2024-07-09T23:50:10.209Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 15%
+2024-07-09T23:50:10.209Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 18%
+2024-07-09T23:50:10.210Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 21%
+2024-07-09T23:50:10.210Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 24%
+2024-07-09T23:50:10.212Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 27%
+2024-07-09T23:50:10.212Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 30%
+2024-07-09T23:50:10.213Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 33%
+2024-07-09T23:50:10.213Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 36%
+2024-07-09T23:50:10.214Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 39%
+2024-07-09T23:50:10.214Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 41%
+2024-07-09T23:50:10.214Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 44%
+2024-07-09T23:50:10.215Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 47%
+2024-07-09T23:50:10.215Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 50%
+2024-07-09T23:50:10.216Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 53%
+2024-07-09T23:50:10.217Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 56%
+2024-07-09T23:50:10.217Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 58%
+2024-07-09T23:50:10.217Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 61%
+2024-07-09T23:50:10.218Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 64%
+2024-07-09T23:50:10.218Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 67%
+2024-07-09T23:50:10.219Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 70%
+2024-07-09T23:50:10.220Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 71%
+2024-07-09T23:50:10.220Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 74%
+2024-07-09T23:50:10.220Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 76%
+2024-07-09T23:50:10.221Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 79%
+2024-07-09T23:50:10.221Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 81%
+2024-07-09T23:50:10.222Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 84%
+2024-07-09T23:50:10.222Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 87%
+2024-07-09T23:50:10.226Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 90%
+2024-07-09T23:50:10.226Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 92%
+2024-07-09T23:50:10.226Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 93%
+2024-07-09T23:50:10.227Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 96%
+2024-07-09T23:50:10.227Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 97%
+2024-07-09T23:50:10.227Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip: 100%
+2024-07-09T23:50:10.228Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-07-09T23:50:10.228Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip
+2024-07-09T23:50:10.338Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 1%
+2024-07-09T23:50:10.338Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 2%
+2024-07-09T23:50:10.339Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 3%
+2024-07-09T23:50:10.340Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 4%
+2024-07-09T23:50:10.341Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 5%
+2024-07-09T23:50:10.342Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 6%
+2024-07-09T23:50:10.343Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 7%
+2024-07-09T23:50:10.344Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 8%
+2024-07-09T23:50:10.345Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 9%
+2024-07-09T23:50:10.346Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 10%
+2024-07-09T23:50:10.346Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 11%
+2024-07-09T23:50:10.347Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 12%
+2024-07-09T23:50:10.348Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 13%
+2024-07-09T23:50:10.349Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 14%
+2024-07-09T23:50:10.350Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 15%
+2024-07-09T23:50:10.351Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 16%
+2024-07-09T23:50:10.352Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 17%
+2024-07-09T23:50:10.353Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 18%
+2024-07-09T23:50:10.354Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 19%
+2024-07-09T23:50:10.354Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 20%
+2024-07-09T23:50:10.355Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 21%
+2024-07-09T23:50:10.356Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 22%
+2024-07-09T23:50:10.357Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 23%
+2024-07-09T23:50:10.358Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 24%
+2024-07-09T23:50:10.359Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 25%
+2024-07-09T23:50:10.360Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 26%
+2024-07-09T23:50:10.361Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 27%
+2024-07-09T23:50:10.362Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 28%
+2024-07-09T23:50:10.362Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 29%
+2024-07-09T23:50:10.363Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 30%
+2024-07-09T23:50:10.364Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 31%
+2024-07-09T23:50:10.365Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 32%
+2024-07-09T23:50:10.366Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 33%
+2024-07-09T23:50:10.367Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 34%
+2024-07-09T23:50:10.367Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 35%
+2024-07-09T23:50:10.369Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 36%
+2024-07-09T23:50:10.370Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 37%
+2024-07-09T23:50:10.370Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 38%
+2024-07-09T23:50:10.371Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 39%
+2024-07-09T23:50:10.372Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 40%
+2024-07-09T23:50:10.373Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 41%
+2024-07-09T23:50:10.374Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 42%
+2024-07-09T23:50:10.375Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 43%
+2024-07-09T23:50:10.375Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 44%
+2024-07-09T23:50:10.377Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 45%
+2024-07-09T23:50:10.377Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 46%
+2024-07-09T23:50:10.378Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 47%
+2024-07-09T23:50:10.379Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 48%
+2024-07-09T23:50:10.380Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 49%
+2024-07-09T23:50:10.381Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 50%
+2024-07-09T23:50:10.382Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 51%
+2024-07-09T23:50:10.382Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 52%
+2024-07-09T23:50:10.384Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 53%
+2024-07-09T23:50:10.384Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 54%
+2024-07-09T23:50:10.385Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 55%
+2024-07-09T23:50:10.386Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 56%
+2024-07-09T23:50:10.387Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 57%
+2024-07-09T23:50:10.388Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 58%
+2024-07-09T23:50:10.389Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 59%
+2024-07-09T23:50:10.389Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 60%
+2024-07-09T23:50:10.390Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 61%
+2024-07-09T23:50:10.391Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 62%
+2024-07-09T23:50:10.392Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 63%
+2024-07-09T23:50:10.393Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 64%
+2024-07-09T23:50:10.394Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 65%
+2024-07-09T23:50:10.395Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 66%
+2024-07-09T23:50:10.396Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 67%
+2024-07-09T23:50:10.398Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 69%
+2024-07-09T23:50:10.398Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 70%
+2024-07-09T23:50:10.399Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 71%
+2024-07-09T23:50:10.400Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 72%
+2024-07-09T23:50:10.401Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 73%
+2024-07-09T23:50:10.402Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 74%
+2024-07-09T23:50:10.403Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 75%
+2024-07-09T23:50:10.403Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 76%
+2024-07-09T23:50:10.405Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 77%
+2024-07-09T23:50:10.406Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 78%
+2024-07-09T23:50:10.406Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 79%
+2024-07-09T23:50:10.407Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 80%
+2024-07-09T23:50:10.408Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 81%
+2024-07-09T23:50:10.409Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 82%
+2024-07-09T23:50:10.410Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 83%
+2024-07-09T23:50:10.411Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 84%
+2024-07-09T23:50:10.411Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 85%
+2024-07-09T23:50:10.413Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 86%
+2024-07-09T23:50:10.413Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 87%
+2024-07-09T23:50:10.414Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 88%
+2024-07-09T23:50:10.415Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 89%
+2024-07-09T23:50:10.416Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 90%
+2024-07-09T23:50:10.417Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 91%
+2024-07-09T23:50:10.418Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 92%
+2024-07-09T23:50:10.419Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 93%
+2024-07-09T23:50:10.419Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 94%
+2024-07-09T23:50:10.420Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 95%
+2024-07-09T23:50:10.421Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 96%
+2024-07-09T23:50:10.422Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 97%
+2024-07-09T23:50:10.423Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 98%
+2024-07-09T23:50:10.424Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 99%
+2024-07-09T23:50:10.425Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip: 100%
+2024-07-09T23:50:10.425Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-07-09T23:50:10.425Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip
+2024-07-09T23:50:10.559Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 1%
+2024-07-09T23:50:10.559Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 2%
+2024-07-09T23:50:10.560Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 4%
+2024-07-09T23:50:10.560Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 6%
+2024-07-09T23:50:10.561Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 8%
+2024-07-09T23:50:10.561Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 10%
+2024-07-09T23:50:10.562Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 12%
+2024-07-09T23:50:10.563Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 14%
+2024-07-09T23:50:10.563Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 16%
+2024-07-09T23:50:10.564Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 18%
+2024-07-09T23:50:10.564Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 20%
+2024-07-09T23:50:10.565Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 22%
+2024-07-09T23:50:10.565Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 24%
+2024-07-09T23:50:10.566Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 26%
+2024-07-09T23:50:10.567Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 28%
+2024-07-09T23:50:10.567Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 30%
+2024-07-09T23:50:10.568Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 32%
+2024-07-09T23:50:10.568Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 33%
+2024-07-09T23:50:10.569Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 35%
+2024-07-09T23:50:10.569Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 37%
+2024-07-09T23:50:10.570Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 39%
+2024-07-09T23:50:10.571Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 41%
+2024-07-09T23:50:10.571Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 43%
+2024-07-09T23:50:10.572Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 45%
+2024-07-09T23:50:10.572Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 47%
+2024-07-09T23:50:10.573Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 49%
+2024-07-09T23:50:10.573Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 51%
+2024-07-09T23:50:10.574Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 53%
+2024-07-09T23:50:10.575Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 55%
+2024-07-09T23:50:10.575Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 57%
+2024-07-09T23:50:10.576Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 59%
+2024-07-09T23:50:10.576Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 61%
+2024-07-09T23:50:10.577Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 62%
+2024-07-09T23:50:10.577Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 63%
+2024-07-09T23:50:10.577Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 65%
+2024-07-09T23:50:10.578Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 66%
+2024-07-09T23:50:10.579Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 68%
+2024-07-09T23:50:10.579Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 70%
+2024-07-09T23:50:10.580Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 72%
+2024-07-09T23:50:10.580Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 74%
+2024-07-09T23:50:10.581Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 76%
+2024-07-09T23:50:10.581Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 78%
+2024-07-09T23:50:10.582Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 80%
+2024-07-09T23:50:10.583Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 82%
+2024-07-09T23:50:10.583Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 84%
+2024-07-09T23:50:10.584Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 86%
+2024-07-09T23:50:10.584Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 88%
+2024-07-09T23:50:10.585Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 90%
+2024-07-09T23:50:10.585Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 92%
+2024-07-09T23:50:10.586Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 94%
+2024-07-09T23:50:10.587Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 96%
+2024-07-09T23:50:10.587Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 98%
+2024-07-09T23:50:10.588Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 99%
+2024-07-09T23:50:10.588Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip: 100%
+2024-07-09T23:50:10.589Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-07-09T23:50:10.589Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip
+2024-07-09T23:50:10.710Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 1%
+2024-07-09T23:50:10.712Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 2%
+2024-07-09T23:50:10.714Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 3%
+2024-07-09T23:50:10.717Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 4%
+2024-07-09T23:50:10.719Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 5%
+2024-07-09T23:50:10.721Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 6%
+2024-07-09T23:50:10.723Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 7%
+2024-07-09T23:50:10.725Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 8%
+2024-07-09T23:50:10.727Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 9%
+2024-07-09T23:50:10.729Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 10%
+2024-07-09T23:50:10.731Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 11%
+2024-07-09T23:50:10.733Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 12%
+2024-07-09T23:50:10.736Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 13%
+2024-07-09T23:50:10.737Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 14%
+2024-07-09T23:50:10.740Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 15%
+2024-07-09T23:50:10.741Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 16%
+2024-07-09T23:50:10.744Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 17%
+2024-07-09T23:50:10.746Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 18%
+2024-07-09T23:50:10.748Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 19%
+2024-07-09T23:50:10.750Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 20%
+2024-07-09T23:50:10.752Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 21%
+2024-07-09T23:50:10.754Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 22%
+2024-07-09T23:50:10.756Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 23%
+2024-07-09T23:50:10.759Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 24%
+2024-07-09T23:50:10.761Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 25%
+2024-07-09T23:50:10.763Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 26%
+2024-07-09T23:50:10.766Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 27%
+2024-07-09T23:50:10.768Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 28%
+2024-07-09T23:50:10.770Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 29%
+2024-07-09T23:50:10.772Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 30%
+2024-07-09T23:50:10.774Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 31%
+2024-07-09T23:50:10.776Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 32%
+2024-07-09T23:50:10.778Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 33%
+2024-07-09T23:50:10.780Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 34%
+2024-07-09T23:50:10.782Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 35%
+2024-07-09T23:50:10.784Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 36%
+2024-07-09T23:50:10.786Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 37%
+2024-07-09T23:50:10.788Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 38%
+2024-07-09T23:50:10.791Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 39%
+2024-07-09T23:50:10.792Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 40%
+2024-07-09T23:50:10.795Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 41%
+2024-07-09T23:50:10.797Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 42%
+2024-07-09T23:50:10.799Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 43%
+2024-07-09T23:50:10.801Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 44%
+2024-07-09T23:50:10.803Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 45%
+2024-07-09T23:50:10.805Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 46%
+2024-07-09T23:50:10.807Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 47%
+2024-07-09T23:50:10.809Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 48%
+2024-07-09T23:50:10.811Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 49%
+2024-07-09T23:50:10.813Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 50%
+2024-07-09T23:50:10.816Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 51%
+2024-07-09T23:50:10.817Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 52%
+2024-07-09T23:50:10.819Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 53%
+2024-07-09T23:50:10.822Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 54%
+2024-07-09T23:50:10.823Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 55%
+2024-07-09T23:50:10.826Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 56%
+2024-07-09T23:50:10.828Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 57%
+2024-07-09T23:50:10.830Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 58%
+2024-07-09T23:50:10.832Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 59%
+2024-07-09T23:50:10.834Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 60%
+2024-07-09T23:50:10.836Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 61%
+2024-07-09T23:50:10.838Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 62%
+2024-07-09T23:50:10.840Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 63%
+2024-07-09T23:50:10.843Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 64%
+2024-07-09T23:50:10.844Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 65%
+2024-07-09T23:50:10.847Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 66%
+2024-07-09T23:50:10.849Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 67%
+2024-07-09T23:50:10.850Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 68%
+2024-07-09T23:50:10.853Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 69%
+2024-07-09T23:50:10.854Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 70%
+2024-07-09T23:50:10.857Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 71%
+2024-07-09T23:50:10.859Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 72%
+2024-07-09T23:50:10.861Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 73%
+2024-07-09T23:50:10.863Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 74%
+2024-07-09T23:50:10.865Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 75%
+2024-07-09T23:50:10.867Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 76%
+2024-07-09T23:50:10.869Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 77%
+2024-07-09T23:50:10.871Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 78%
+2024-07-09T23:50:10.873Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 79%
+2024-07-09T23:50:10.876Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 80%
+2024-07-09T23:50:10.877Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 81%
+2024-07-09T23:50:10.880Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 82%
+2024-07-09T23:50:10.882Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 83%
+2024-07-09T23:50:10.884Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 84%
+2024-07-09T23:50:10.886Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 85%
+2024-07-09T23:50:10.888Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 86%
+2024-07-09T23:50:10.890Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 87%
+2024-07-09T23:50:10.892Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 88%
+2024-07-09T23:50:10.894Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 89%
+2024-07-09T23:50:10.896Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 90%
+2024-07-09T23:50:10.898Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 91%
+2024-07-09T23:50:10.900Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 92%
+2024-07-09T23:50:10.902Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 93%
+2024-07-09T23:50:10.905Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 94%
+2024-07-09T23:50:10.906Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 95%
+2024-07-09T23:50:10.909Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 96%
+2024-07-09T23:50:10.911Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 97%
+2024-07-09T23:50:10.913Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 98%
+2024-07-09T23:50:10.915Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 99%
+2024-07-09T23:50:10.917Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip: 100%
+2024-07-09T23:50:10.918Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-07-09T23:50:10.918Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip
+2024-07-09T23:50:11.041Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip: 16%
+2024-07-09T23:50:11.042Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip: 23%
+2024-07-09T23:50:11.042Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip: 39%
+2024-07-09T23:50:11.043Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip: 56%
+2024-07-09T23:50:11.043Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip: 72%
+2024-07-09T23:50:11.044Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip: 88%
+2024-07-09T23:50:11.044Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip: 100%
+2024-07-09T23:50:11.045Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-07-09T23:50:11.045Z [Modules] Installing updates...
+2024-07-09T23:50:11.045Z [Modules] Installing discord_desktop_core@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_desktop_core-1.zip
+2024-07-09T23:50:11.099Z [Modules] Installing discord_erlpack@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_erlpack-1.zip
+2024-07-09T23:50:11.137Z [Modules] Installing discord_spellcheck@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_spellcheck-1.zip
+2024-07-09T23:50:11.574Z [Modules] Installing discord_utils@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_utils-1.zip
+2024-07-09T23:50:11.657Z [Modules] Installing discord_voice@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_voice-1.zip
+2024-07-09T23:50:12.029Z [Modules] Installing discord_zstd@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_zstd-1.zip
+2024-07-09T23:50:12.036Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-07-09T23:50:12.036Z [Modules] Checking for host updates.
+2024-07-09T23:50:12.115Z [Modules] Host is up to date.
+2024-07-09T23:50:12.115Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-09T23:50:12.117Z [Modules] No module updates available.
+2024-07-09T23:50:12.980Z [Modules] Starting to install discord_krisp...
+2024-07-09T23:50:12.980Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-07-09T23:50:12.980Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip
+2024-07-09T23:50:12.986Z [Modules] Starting to install discord_game_utils...
+2024-07-09T23:50:13.132Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 1%
+2024-07-09T23:50:13.134Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 2%
+2024-07-09T23:50:13.136Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 3%
+2024-07-09T23:50:13.139Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 4%
+2024-07-09T23:50:13.141Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 5%
+2024-07-09T23:50:13.143Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 6%
+2024-07-09T23:50:13.145Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 7%
+2024-07-09T23:50:13.149Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 8%
+2024-07-09T23:50:13.150Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 9%
+2024-07-09T23:50:13.151Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 10%
+2024-07-09T23:50:13.153Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 11%
+2024-07-09T23:50:13.162Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 14%
+2024-07-09T23:50:13.164Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 15%
+2024-07-09T23:50:13.166Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 16%
+2024-07-09T23:50:13.183Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 17%
+2024-07-09T23:50:13.183Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 18%
+2024-07-09T23:50:13.184Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 19%
+2024-07-09T23:50:13.185Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 20%
+2024-07-09T23:50:13.185Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 21%
+2024-07-09T23:50:13.186Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 22%
+2024-07-09T23:50:13.186Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 23%
+2024-07-09T23:50:13.187Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 24%
+2024-07-09T23:50:13.189Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 25%
+2024-07-09T23:50:13.189Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 26%
+2024-07-09T23:50:13.189Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 27%
+2024-07-09T23:50:13.191Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 28%
+2024-07-09T23:50:13.193Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 29%
+2024-07-09T23:50:13.195Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 30%
+2024-07-09T23:50:13.197Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 31%
+2024-07-09T23:50:13.199Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 32%
+2024-07-09T23:50:13.204Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 34%
+2024-07-09T23:50:13.205Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 35%
+2024-07-09T23:50:13.208Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 36%
+2024-07-09T23:50:13.210Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 37%
+2024-07-09T23:50:13.212Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 38%
+2024-07-09T23:50:13.214Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 39%
+2024-07-09T23:50:13.218Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 40%
+2024-07-09T23:50:13.220Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 41%
+2024-07-09T23:50:13.222Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 42%
+2024-07-09T23:50:13.224Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 43%
+2024-07-09T23:50:13.228Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 44%
+2024-07-09T23:50:13.229Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 45%
+2024-07-09T23:50:13.231Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 46%
+2024-07-09T23:50:13.317Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 47%
+2024-07-09T23:50:13.324Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 48%
+2024-07-09T23:50:13.325Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 49%
+2024-07-09T23:50:13.326Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 50%
+2024-07-09T23:50:13.327Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 51%
+2024-07-09T23:50:13.328Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 52%
+2024-07-09T23:50:13.329Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 53%
+2024-07-09T23:50:13.329Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 54%
+2024-07-09T23:50:13.330Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 55%
+2024-07-09T23:50:13.331Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 56%
+2024-07-09T23:50:13.331Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 57%
+2024-07-09T23:50:13.332Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 58%
+2024-07-09T23:50:13.333Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 59%
+2024-07-09T23:50:13.334Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 60%
+2024-07-09T23:50:13.334Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 61%
+2024-07-09T23:50:13.340Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 62%
+2024-07-09T23:50:13.340Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 63%
+2024-07-09T23:50:13.341Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 64%
+2024-07-09T23:50:13.341Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 65%
+2024-07-09T23:50:13.357Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 66%
+2024-07-09T23:50:13.360Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 67%
+2024-07-09T23:50:13.362Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 68%
+2024-07-09T23:50:13.364Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 69%
+2024-07-09T23:50:13.366Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 70%
+2024-07-09T23:50:13.368Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 71%
+2024-07-09T23:50:13.370Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 72%
+2024-07-09T23:50:13.373Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 73%
+2024-07-09T23:50:13.374Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 74%
+2024-07-09T23:50:13.377Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 75%
+2024-07-09T23:50:13.379Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 76%
+2024-07-09T23:50:13.385Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 77%
+2024-07-09T23:50:13.387Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 78%
+2024-07-09T23:50:13.393Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 79%
+2024-07-09T23:50:13.393Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 80%
+2024-07-09T23:50:13.394Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 81%
+2024-07-09T23:50:13.394Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 82%
+2024-07-09T23:50:13.394Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 83%
+2024-07-09T23:50:13.398Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 84%
+2024-07-09T23:50:13.399Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 85%
+2024-07-09T23:50:13.401Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 86%
+2024-07-09T23:50:13.413Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 87%
+2024-07-09T23:50:13.414Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 88%
+2024-07-09T23:50:13.415Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 89%
+2024-07-09T23:50:13.415Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 90%
+2024-07-09T23:50:13.416Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 91%
+2024-07-09T23:50:13.416Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 92%
+2024-07-09T23:50:13.422Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 93%
+2024-07-09T23:50:13.424Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 94%
+2024-07-09T23:50:13.426Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 95%
+2024-07-09T23:50:13.428Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 96%
+2024-07-09T23:50:13.430Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 97%
+2024-07-09T23:50:13.433Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 98%
+2024-07-09T23:50:13.434Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 99%
+2024-07-09T23:50:13.436Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip: 100%
+2024-07-09T23:50:13.437Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2024-07-09T23:50:13.437Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip
+2024-07-09T23:50:13.437Z [Modules] Installing discord_krisp@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_krisp-1.zip
+2024-07-09T23:50:13.563Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 2%
+2024-07-09T23:50:13.563Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 4%
+2024-07-09T23:50:13.564Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 6%
+2024-07-09T23:50:13.564Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 8%
+2024-07-09T23:50:13.565Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 11%
+2024-07-09T23:50:13.566Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 13%
+2024-07-09T23:50:13.566Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 15%
+2024-07-09T23:50:13.567Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 18%
+2024-07-09T23:50:13.567Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 20%
+2024-07-09T23:50:13.568Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 23%
+2024-07-09T23:50:13.568Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 25%
+2024-07-09T23:50:13.569Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 27%
+2024-07-09T23:50:13.570Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 30%
+2024-07-09T23:50:13.570Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 32%
+2024-07-09T23:50:13.571Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 34%
+2024-07-09T23:50:13.571Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 37%
+2024-07-09T23:50:13.572Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 39%
+2024-07-09T23:50:13.572Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 41%
+2024-07-09T23:50:13.573Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 44%
+2024-07-09T23:50:13.574Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 46%
+2024-07-09T23:50:13.574Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 49%
+2024-07-09T23:50:13.575Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 51%
+2024-07-09T23:50:13.575Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 53%
+2024-07-09T23:50:13.576Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 56%
+2024-07-09T23:50:13.576Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 58%
+2024-07-09T23:50:13.577Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 60%
+2024-07-09T23:50:13.578Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 63%
+2024-07-09T23:50:13.578Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 65%
+2024-07-09T23:50:13.579Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 67%
+2024-07-09T23:50:13.579Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 70%
+2024-07-09T23:50:13.580Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 72%
+2024-07-09T23:50:13.580Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 75%
+2024-07-09T23:50:13.581Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 76%
+2024-07-09T23:50:13.581Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 79%
+2024-07-09T23:50:13.582Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 81%
+2024-07-09T23:50:13.584Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 86%
+2024-07-09T23:50:13.584Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 88%
+2024-07-09T23:50:13.584Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 90%
+2024-07-09T23:50:13.585Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 93%
+2024-07-09T23:50:13.585Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 95%
+2024-07-09T23:50:13.586Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 98%
+2024-07-09T23:50:13.586Z [Modules] Streaming discord_game_utils@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip: 100%
+2024-07-09T23:50:13.587Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2024-07-09T23:50:13.619Z [Modules] Checking for host updates.
+2024-07-09T23:50:13.690Z [Modules] Starting to install discord_rpc...
+2024-07-09T23:50:13.690Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2024-07-09T23:50:13.691Z [Modules] Streaming discord_rpc@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_rpc-1.zip
+2024-07-09T23:50:13.705Z [Modules] Host is up to date.
+2024-07-09T23:50:13.705Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-09T23:50:13.707Z [Modules] No module updates available.
+2024-07-09T23:50:13.738Z [Modules] Installing discord_game_utils@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_game_utils-1.zip
+2024-07-09T23:50:13.785Z [Modules] Finished module installations. [success: 2] [failure: 0]
+2024-07-09T23:50:13.798Z [Modules] Streaming discord_rpc@1 to /home/jazz/.config/discord/0.0.59/modules/pending/discord_rpc-1.zip: 100%
+2024-07-09T23:50:13.799Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2024-07-09T23:50:13.799Z [Modules] Installing discord_rpc@1 from /home/jazz/.config/discord/0.0.59/modules/pending/discord_rpc-1.zip
+2024-07-09T23:50:13.809Z [Modules] Finished module installations. [success: 1] [failure: 0]
+2024-07-09T23:50:54.575Z [Modules] Modules initializing
+2024-07-09T23:50:54.575Z [Modules] Distribution: remote
+2024-07-09T23:50:54.576Z [Modules] Host updates: enabled
+2024-07-09T23:50:54.576Z [Modules] Module updates: enabled
+2024-07-09T23:50:54.576Z [Modules] Module install path: /home/jazz/.config/discord/0.0.59/modules
+2024-07-09T23:50:54.576Z [Modules] Module installed file path: /home/jazz/.config/discord/0.0.59/modules/installed.json
+2024-07-09T23:50:54.576Z [Modules] Module download path: /home/jazz/.config/discord/0.0.59/modules/pending
+2024-07-09T23:50:54.842Z [Modules] No updates to install
+2024-07-09T23:50:54.842Z [Modules] Checking for host updates.
+2024-07-09T23:50:55.005Z [Modules] Host is up to date.
+2024-07-09T23:50:55.005Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-09T23:50:55.007Z [Modules] No module updates available.
+2024-07-09T23:50:57.886Z [Modules] Checking for host updates.
+2024-07-09T23:50:57.963Z [Modules] Host is up to date.
+2024-07-09T23:50:57.963Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-09T23:50:57.965Z [Modules] No module updates available.
+2024-07-09T23:55:48.511Z [Modules] Checking for host updates.
+2024-07-09T23:55:48.590Z [Modules] Host is up to date.
+2024-07-09T23:55:48.590Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-09T23:55:48.614Z [Modules] No module updates available.
+2024-07-10T00:02:52.789Z [Modules] Modules initializing
+2024-07-10T00:02:52.789Z [Modules] Distribution: remote
+2024-07-10T00:02:52.789Z [Modules] Host updates: enabled
+2024-07-10T00:02:52.789Z [Modules] Module updates: enabled
+2024-07-10T00:02:52.789Z [Modules] Module install path: /home/jazz/.config/discord/0.0.59/modules
+2024-07-10T00:02:52.789Z [Modules] Module installed file path: /home/jazz/.config/discord/0.0.59/modules/installed.json
+2024-07-10T00:02:52.789Z [Modules] Module download path: /home/jazz/.config/discord/0.0.59/modules/pending
+2024-07-10T00:02:53.131Z [Modules] No updates to install
+2024-07-10T00:02:53.131Z [Modules] Checking for host updates.
+2024-07-10T00:02:53.312Z [Modules] Host is up to date.
+2024-07-10T00:02:53.312Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-10T00:02:53.342Z [Modules] No module updates available.
+2024-07-10T00:02:54.883Z [Modules] Checking for host updates.
+2024-07-10T00:02:54.980Z [Modules] Host is up to date.
+2024-07-10T00:02:54.980Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-10T00:02:54.982Z [Modules] No module updates available.
+2024-07-10T00:03:41.202Z [Modules] Modules initializing
+2024-07-10T00:03:41.202Z [Modules] Distribution: remote
+2024-07-10T00:03:41.202Z [Modules] Host updates: enabled
+2024-07-10T00:03:41.203Z [Modules] Module updates: enabled
+2024-07-10T00:03:41.203Z [Modules] Module install path: /home/jazz/.config/discord/0.0.59/modules
+2024-07-10T00:03:41.203Z [Modules] Module installed file path: /home/jazz/.config/discord/0.0.59/modules/installed.json
+2024-07-10T00:03:41.203Z [Modules] Module download path: /home/jazz/.config/discord/0.0.59/modules/pending
+2024-07-10T00:03:41.461Z [Modules] No updates to install
+2024-07-10T00:03:41.461Z [Modules] Checking for host updates.
+2024-07-10T00:03:41.631Z [Modules] Host is up to date.
+2024-07-10T00:03:41.631Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-10T00:03:41.633Z [Modules] No module updates available.
+2024-07-10T00:03:43.169Z [Modules] Checking for host updates.
+2024-07-10T00:03:43.245Z [Modules] Host is up to date.
+2024-07-10T00:03:43.245Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-10T00:03:43.248Z [Modules] No module updates available.
+2024-07-10T00:05:58.912Z [Modules] Modules initializing
+2024-07-10T00:05:58.912Z [Modules] Distribution: remote
+2024-07-10T00:05:58.912Z [Modules] Host updates: enabled
+2024-07-10T00:05:58.912Z [Modules] Module updates: enabled
+2024-07-10T00:05:58.912Z [Modules] Module install path: /home/jazz/.config/discord/0.0.59/modules
+2024-07-10T00:05:58.912Z [Modules] Module installed file path: /home/jazz/.config/discord/0.0.59/modules/installed.json
+2024-07-10T00:05:58.912Z [Modules] Module download path: /home/jazz/.config/discord/0.0.59/modules/pending
+2024-07-10T00:05:59.275Z [Modules] No updates to install
+2024-07-10T00:05:59.276Z [Modules] Checking for host updates.
+2024-07-10T00:05:59.428Z [Modules] Host is up to date.
+2024-07-10T00:05:59.429Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-10T00:05:59.461Z [Modules] No module updates available.
+2024-07-10T00:06:01.011Z [Modules] Checking for host updates.
+2024-07-10T00:06:01.091Z [Modules] Host is up to date.
+2024-07-10T00:06:01.091Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-10T00:06:01.094Z [Modules] No module updates available.
+2024-07-10T00:18:49.337Z [Modules] Modules initializing
+2024-07-10T00:18:49.337Z [Modules] Distribution: remote
+2024-07-10T00:18:49.337Z [Modules] Host updates: enabled
+2024-07-10T00:18:49.337Z [Modules] Module updates: enabled
+2024-07-10T00:18:49.337Z [Modules] Module install path: /home/jazz/.config/discord/0.0.59/modules
+2024-07-10T00:18:49.337Z [Modules] Module installed file path: /home/jazz/.config/discord/0.0.59/modules/installed.json
+2024-07-10T00:18:49.337Z [Modules] Module download path: /home/jazz/.config/discord/0.0.59/modules/pending
+2024-07-10T00:18:49.628Z [Modules] No updates to install
+2024-07-10T00:18:49.628Z [Modules] Checking for host updates.
+2024-07-10T00:18:49.798Z [Modules] Host is up to date.
+2024-07-10T00:18:49.798Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-10T00:18:49.848Z [Modules] No module updates available.
+2024-07-10T00:18:51.398Z [Modules] Checking for host updates.
+2024-07-10T00:18:51.498Z [Modules] Host is up to date.
+2024-07-10T00:18:51.498Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-07-10T00:18:51.501Z [Modules] No module updates available.
+2024-10-14T03:34:14.991Z [Modules] Modules initializing
+2024-10-14T03:34:14.991Z [Modules] Distribution: remote
+2024-10-14T03:34:14.991Z [Modules] Host updates: enabled
+2024-10-14T03:34:14.991Z [Modules] Module updates: enabled
+2024-10-14T03:34:14.991Z [Modules] Module install path: /home/jazz/.config/discord/0.0.71/modules
+2024-10-14T03:34:14.991Z [Modules] Module installed file path: /home/jazz/.config/discord/0.0.71/modules/installed.json
+2024-10-14T03:34:14.991Z [Modules] Module download path: /home/jazz/.config/discord/0.0.71/modules/pending
+2024-10-14T03:34:15.337Z [Modules] Bootstrapping...
+2024-10-14T03:34:15.337Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2024-10-14T03:34:15.338Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2024-10-14T03:34:15.338Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2024-10-14T03:34:15.339Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2024-10-14T03:34:15.339Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2024-10-14T03:34:15.340Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2024-10-14T03:34:15.340Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2024-10-14T03:34:15.340Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2024-10-14T03:34:15.340Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2024-10-14T03:34:15.341Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2024-10-14T03:34:15.341Z [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+2024-10-14T03:34:15.341Z [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+2024-10-14T03:34:15.341Z [Modules] Finished module installations. [success: 0] [failure: 6]
+2024-10-14T03:34:15.341Z [Modules] Checking for host updates.
+2024-10-14T03:34:15.568Z [Modules] Host is up to date.
+2024-10-14T03:34:15.568Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-14T03:34:15.593Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2024-10-14T03:34:15.593Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2024-10-14T03:34:15.593Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2024-10-14T03:34:15.593Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2024-10-14T03:34:15.593Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2024-10-14T03:34:15.593Z [Modules] Module update available: discord_zstd@1 [installed: 0]
+2024-10-14T03:34:15.593Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2024-10-14T03:34:15.593Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip
+2024-10-14T03:34:15.821Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 1%
+2024-10-14T03:34:15.843Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 2%
+2024-10-14T03:34:15.845Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 3%
+2024-10-14T03:34:15.847Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 4%
+2024-10-14T03:34:15.850Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 5%
+2024-10-14T03:34:15.861Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 6%
+2024-10-14T03:34:15.866Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 8%
+2024-10-14T03:34:15.870Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 10%
+2024-10-14T03:34:15.875Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 12%
+2024-10-14T03:34:15.878Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 13%
+2024-10-14T03:34:15.880Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 14%
+2024-10-14T03:34:15.883Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 16%
+2024-10-14T03:34:15.886Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 17%
+2024-10-14T03:34:15.889Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 18%
+2024-10-14T03:34:15.892Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 21%
+2024-10-14T03:34:15.893Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 22%
+2024-10-14T03:34:15.897Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 24%
+2024-10-14T03:34:15.898Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 25%
+2024-10-14T03:34:15.900Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 28%
+2024-10-14T03:34:15.901Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 29%
+2024-10-14T03:34:15.904Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 32%
+2024-10-14T03:34:15.904Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 33%
+2024-10-14T03:34:15.906Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 34%
+2024-10-14T03:34:15.907Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 37%
+2024-10-14T03:34:15.908Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 38%
+2024-10-14T03:34:15.909Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 39%
+2024-10-14T03:34:15.910Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 42%
+2024-10-14T03:34:15.911Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 43%
+2024-10-14T03:34:15.916Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 46%
+2024-10-14T03:34:15.916Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 48%
+2024-10-14T03:34:15.918Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 50%
+2024-10-14T03:34:15.918Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 52%
+2024-10-14T03:34:15.920Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 55%
+2024-10-14T03:34:15.920Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 57%
+2024-10-14T03:34:15.923Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 59%
+2024-10-14T03:34:15.924Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 62%
+2024-10-14T03:34:15.925Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 64%
+2024-10-14T03:34:15.926Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 67%
+2024-10-14T03:34:15.926Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 68%
+2024-10-14T03:34:15.927Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 71%
+2024-10-14T03:34:15.928Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 74%
+2024-10-14T03:34:15.929Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 75%
+2024-10-14T03:34:15.930Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 78%
+2024-10-14T03:34:15.930Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 81%
+2024-10-14T03:34:15.932Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 83%
+2024-10-14T03:34:15.933Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 85%
+2024-10-14T03:34:15.933Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 86%
+2024-10-14T03:34:15.934Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 89%
+2024-10-14T03:34:15.934Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 91%
+2024-10-14T03:34:15.935Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 94%
+2024-10-14T03:34:15.936Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 97%
+2024-10-14T03:34:15.936Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 99%
+2024-10-14T03:34:15.936Z [Modules] Streaming discord_desktop_core@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip: 100%
+2024-10-14T03:34:15.937Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2024-10-14T03:34:15.937Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip
+2024-10-14T03:34:16.055Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 3%
+2024-10-14T03:34:16.056Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 4%
+2024-10-14T03:34:16.056Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 7%
+2024-10-14T03:34:16.056Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 8%
+2024-10-14T03:34:16.057Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 11%
+2024-10-14T03:34:16.058Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 14%
+2024-10-14T03:34:16.058Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 17%
+2024-10-14T03:34:16.058Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 18%
+2024-10-14T03:34:16.059Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 21%
+2024-10-14T03:34:16.059Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 23%
+2024-10-14T03:34:16.060Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 26%
+2024-10-14T03:34:16.060Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 29%
+2024-10-14T03:34:16.061Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 32%
+2024-10-14T03:34:16.061Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 36%
+2024-10-14T03:34:16.062Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 39%
+2024-10-14T03:34:16.062Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 40%
+2024-10-14T03:34:16.063Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 43%
+2024-10-14T03:34:16.064Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 46%
+2024-10-14T03:34:16.064Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 49%
+2024-10-14T03:34:16.065Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 52%
+2024-10-14T03:34:16.065Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 54%
+2024-10-14T03:34:16.065Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 57%
+2024-10-14T03:34:16.066Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 59%
+2024-10-14T03:34:16.067Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 62%
+2024-10-14T03:34:16.067Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 64%
+2024-10-14T03:34:16.068Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 67%
+2024-10-14T03:34:16.068Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 70%
+2024-10-14T03:34:16.069Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 73%
+2024-10-14T03:34:16.069Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 76%
+2024-10-14T03:34:16.070Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 79%
+2024-10-14T03:34:16.070Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 82%
+2024-10-14T03:34:16.071Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 85%
+2024-10-14T03:34:16.071Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 88%
+2024-10-14T03:34:16.072Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 91%
+2024-10-14T03:34:16.072Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 93%
+2024-10-14T03:34:16.073Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 96%
+2024-10-14T03:34:16.079Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 99%
+2024-10-14T03:34:16.080Z [Modules] Streaming discord_erlpack@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip: 100%
+2024-10-14T03:34:16.080Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2024-10-14T03:34:16.080Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip
+2024-10-14T03:34:16.252Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 1%
+2024-10-14T03:34:16.270Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 2%
+2024-10-14T03:34:16.285Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 3%
+2024-10-14T03:34:16.300Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 4%
+2024-10-14T03:34:16.307Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 5%
+2024-10-14T03:34:16.315Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 6%
+2024-10-14T03:34:16.326Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 7%
+2024-10-14T03:34:16.337Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 8%
+2024-10-14T03:34:16.339Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 9%
+2024-10-14T03:34:16.349Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 10%
+2024-10-14T03:34:16.355Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 11%
+2024-10-14T03:34:16.363Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 12%
+2024-10-14T03:34:16.371Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 13%
+2024-10-14T03:34:16.379Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 14%
+2024-10-14T03:34:16.382Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 15%
+2024-10-14T03:34:16.390Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 16%
+2024-10-14T03:34:16.396Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 17%
+2024-10-14T03:34:16.399Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 18%
+2024-10-14T03:34:16.401Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 19%
+2024-10-14T03:34:16.410Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 20%
+2024-10-14T03:34:16.414Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 21%
+2024-10-14T03:34:16.417Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 22%
+2024-10-14T03:34:16.423Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 23%
+2024-10-14T03:34:16.426Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 24%
+2024-10-14T03:34:16.434Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 25%
+2024-10-14T03:34:16.440Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 26%
+2024-10-14T03:34:16.443Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 27%
+2024-10-14T03:34:16.444Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 28%
+2024-10-14T03:34:16.445Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 29%
+2024-10-14T03:34:16.449Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 30%
+2024-10-14T03:34:16.452Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 31%
+2024-10-14T03:34:16.458Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 32%
+2024-10-14T03:34:16.460Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 33%
+2024-10-14T03:34:16.467Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 34%
+2024-10-14T03:34:16.470Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 35%
+2024-10-14T03:34:16.477Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 36%
+2024-10-14T03:34:16.478Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 37%
+2024-10-14T03:34:16.480Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 38%
+2024-10-14T03:34:16.481Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 39%
+2024-10-14T03:34:16.482Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 40%
+2024-10-14T03:34:16.483Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 41%
+2024-10-14T03:34:16.486Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 42%
+2024-10-14T03:34:16.488Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 43%
+2024-10-14T03:34:16.489Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 44%
+2024-10-14T03:34:16.494Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 45%
+2024-10-14T03:34:16.503Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 46%
+2024-10-14T03:34:16.504Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 47%
+2024-10-14T03:34:16.505Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 48%
+2024-10-14T03:34:16.514Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 49%
+2024-10-14T03:34:16.515Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 50%
+2024-10-14T03:34:16.516Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 51%
+2024-10-14T03:34:16.516Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 52%
+2024-10-14T03:34:16.517Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 53%
+2024-10-14T03:34:16.518Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 54%
+2024-10-14T03:34:16.519Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 55%
+2024-10-14T03:34:16.520Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 56%
+2024-10-14T03:34:16.522Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 57%
+2024-10-14T03:34:16.524Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 58%
+2024-10-14T03:34:16.526Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 59%
+2024-10-14T03:34:16.530Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 60%
+2024-10-14T03:34:16.531Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 61%
+2024-10-14T03:34:16.532Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 62%
+2024-10-14T03:34:16.540Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 63%
+2024-10-14T03:34:16.541Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 64%
+2024-10-14T03:34:16.541Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 65%
+2024-10-14T03:34:16.542Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 66%
+2024-10-14T03:34:16.549Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 67%
+2024-10-14T03:34:16.550Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 68%
+2024-10-14T03:34:16.551Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 69%
+2024-10-14T03:34:16.552Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 70%
+2024-10-14T03:34:16.553Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 71%
+2024-10-14T03:34:16.554Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 72%
+2024-10-14T03:34:16.555Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 73%
+2024-10-14T03:34:16.555Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 74%
+2024-10-14T03:34:16.556Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 75%
+2024-10-14T03:34:16.557Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 76%
+2024-10-14T03:34:16.558Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 77%
+2024-10-14T03:34:16.562Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 78%
+2024-10-14T03:34:16.571Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 79%
+2024-10-14T03:34:16.572Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 80%
+2024-10-14T03:34:16.573Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 81%
+2024-10-14T03:34:16.579Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 82%
+2024-10-14T03:34:16.581Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 83%
+2024-10-14T03:34:16.582Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 84%
+2024-10-14T03:34:16.583Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 85%
+2024-10-14T03:34:16.584Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 86%
+2024-10-14T03:34:16.585Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 87%
+2024-10-14T03:34:16.585Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 88%
+2024-10-14T03:34:16.586Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 89%
+2024-10-14T03:34:16.587Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 90%
+2024-10-14T03:34:16.589Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 91%
+2024-10-14T03:34:16.594Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 92%
+2024-10-14T03:34:16.599Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 93%
+2024-10-14T03:34:16.605Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 94%
+2024-10-14T03:34:16.607Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 95%
+2024-10-14T03:34:16.608Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 96%
+2024-10-14T03:34:16.610Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 97%
+2024-10-14T03:34:16.612Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 98%
+2024-10-14T03:34:16.614Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 99%
+2024-10-14T03:34:16.616Z [Modules] Streaming discord_spellcheck@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip: 100%
+2024-10-14T03:34:16.616Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2024-10-14T03:34:16.616Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip
+2024-10-14T03:34:16.741Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 1%
+2024-10-14T03:34:16.742Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 2%
+2024-10-14T03:34:16.742Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 3%
+2024-10-14T03:34:16.743Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 4%
+2024-10-14T03:34:16.743Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 5%
+2024-10-14T03:34:16.744Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 6%
+2024-10-14T03:34:16.745Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 7%
+2024-10-14T03:34:16.746Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 8%
+2024-10-14T03:34:16.747Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 9%
+2024-10-14T03:34:16.747Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 10%
+2024-10-14T03:34:16.748Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 11%
+2024-10-14T03:34:16.748Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 12%
+2024-10-14T03:34:16.749Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 13%
+2024-10-14T03:34:16.749Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 14%
+2024-10-14T03:34:16.750Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 15%
+2024-10-14T03:34:16.750Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 16%
+2024-10-14T03:34:16.752Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 17%
+2024-10-14T03:34:16.753Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 18%
+2024-10-14T03:34:16.753Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 19%
+2024-10-14T03:34:16.753Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 20%
+2024-10-14T03:34:16.754Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 21%
+2024-10-14T03:34:16.754Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 22%
+2024-10-14T03:34:16.758Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 23%
+2024-10-14T03:34:16.758Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 24%
+2024-10-14T03:34:16.758Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 25%
+2024-10-14T03:34:16.759Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 26%
+2024-10-14T03:34:16.759Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 27%
+2024-10-14T03:34:16.759Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 28%
+2024-10-14T03:34:16.759Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 29%
+2024-10-14T03:34:16.760Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 30%
+2024-10-14T03:34:16.761Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 31%
+2024-10-14T03:34:16.762Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 32%
+2024-10-14T03:34:16.762Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 33%
+2024-10-14T03:34:16.762Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 34%
+2024-10-14T03:34:16.763Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 35%
+2024-10-14T03:34:16.764Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 36%
+2024-10-14T03:34:16.764Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 37%
+2024-10-14T03:34:16.764Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 38%
+2024-10-14T03:34:16.768Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 39%
+2024-10-14T03:34:16.768Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 40%
+2024-10-14T03:34:16.769Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 41%
+2024-10-14T03:34:16.769Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 42%
+2024-10-14T03:34:16.769Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 43%
+2024-10-14T03:34:16.770Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 44%
+2024-10-14T03:34:16.770Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 45%
+2024-10-14T03:34:16.771Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 46%
+2024-10-14T03:34:16.772Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 47%
+2024-10-14T03:34:16.773Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 48%
+2024-10-14T03:34:16.773Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 49%
+2024-10-14T03:34:16.773Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 50%
+2024-10-14T03:34:16.776Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 51%
+2024-10-14T03:34:16.776Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 52%
+2024-10-14T03:34:16.776Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 53%
+2024-10-14T03:34:16.777Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 54%
+2024-10-14T03:34:16.777Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 55%
+2024-10-14T03:34:16.778Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 56%
+2024-10-14T03:34:16.779Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 57%
+2024-10-14T03:34:16.779Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 58%
+2024-10-14T03:34:16.779Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 59%
+2024-10-14T03:34:16.780Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 60%
+2024-10-14T03:34:16.781Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 61%
+2024-10-14T03:34:16.781Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 62%
+2024-10-14T03:34:16.781Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 63%
+2024-10-14T03:34:16.782Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 64%
+2024-10-14T03:34:16.783Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 65%
+2024-10-14T03:34:16.783Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 66%
+2024-10-14T03:34:16.784Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 67%
+2024-10-14T03:34:16.785Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 68%
+2024-10-14T03:34:16.786Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 69%
+2024-10-14T03:34:16.786Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 70%
+2024-10-14T03:34:16.786Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 71%
+2024-10-14T03:34:16.787Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 72%
+2024-10-14T03:34:16.789Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 73%
+2024-10-14T03:34:16.790Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 74%
+2024-10-14T03:34:16.790Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 75%
+2024-10-14T03:34:16.790Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 76%
+2024-10-14T03:34:16.792Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 77%
+2024-10-14T03:34:16.793Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 78%
+2024-10-14T03:34:16.793Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 79%
+2024-10-14T03:34:16.794Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 80%
+2024-10-14T03:34:16.794Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 81%
+2024-10-14T03:34:16.794Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 82%
+2024-10-14T03:34:16.795Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 83%
+2024-10-14T03:34:16.795Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 84%
+2024-10-14T03:34:16.795Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 85%
+2024-10-14T03:34:16.796Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 86%
+2024-10-14T03:34:16.797Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 87%
+2024-10-14T03:34:16.798Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 88%
+2024-10-14T03:34:16.798Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 89%
+2024-10-14T03:34:16.798Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 90%
+2024-10-14T03:34:16.799Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 91%
+2024-10-14T03:34:16.799Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 92%
+2024-10-14T03:34:16.799Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 93%
+2024-10-14T03:34:16.800Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 94%
+2024-10-14T03:34:16.800Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 95%
+2024-10-14T03:34:16.801Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 96%
+2024-10-14T03:34:16.803Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 97%
+2024-10-14T03:34:16.803Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 98%
+2024-10-14T03:34:16.803Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 99%
+2024-10-14T03:34:16.804Z [Modules] Streaming discord_utils@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip: 100%
+2024-10-14T03:34:16.804Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2024-10-14T03:34:16.804Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip
+2024-10-14T03:34:16.952Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 1%
+2024-10-14T03:34:16.954Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 2%
+2024-10-14T03:34:16.957Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 3%
+2024-10-14T03:34:16.962Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 4%
+2024-10-14T03:34:16.964Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 5%
+2024-10-14T03:34:16.968Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 6%
+2024-10-14T03:34:16.974Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 7%
+2024-10-14T03:34:16.976Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 8%
+2024-10-14T03:34:16.980Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 9%
+2024-10-14T03:34:16.984Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 10%
+2024-10-14T03:34:16.988Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 11%
+2024-10-14T03:34:16.990Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 12%
+2024-10-14T03:34:16.995Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 13%
+2024-10-14T03:34:16.998Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 14%
+2024-10-14T03:34:17.002Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 15%
+2024-10-14T03:34:17.006Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 16%
+2024-10-14T03:34:17.010Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 17%
+2024-10-14T03:34:17.014Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 18%
+2024-10-14T03:34:17.018Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 19%
+2024-10-14T03:34:17.020Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 20%
+2024-10-14T03:34:17.023Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 21%
+2024-10-14T03:34:17.027Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 22%
+2024-10-14T03:34:17.030Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 23%
+2024-10-14T03:34:17.036Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 24%
+2024-10-14T03:34:17.039Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 25%
+2024-10-14T03:34:17.042Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 26%
+2024-10-14T03:34:17.045Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 27%
+2024-10-14T03:34:17.048Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 28%
+2024-10-14T03:34:17.050Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 29%
+2024-10-14T03:34:17.052Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 30%
+2024-10-14T03:34:17.056Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 31%
+2024-10-14T03:34:17.058Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 32%
+2024-10-14T03:34:17.063Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 33%
+2024-10-14T03:34:17.065Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 34%
+2024-10-14T03:34:17.070Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 35%
+2024-10-14T03:34:17.074Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 36%
+2024-10-14T03:34:17.079Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 37%
+2024-10-14T03:34:17.082Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 38%
+2024-10-14T03:34:17.084Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 39%
+2024-10-14T03:34:17.087Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 40%
+2024-10-14T03:34:17.090Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 41%
+2024-10-14T03:34:17.092Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 42%
+2024-10-14T03:34:17.095Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 43%
+2024-10-14T03:34:17.099Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 44%
+2024-10-14T03:34:17.101Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 45%
+2024-10-14T03:34:17.103Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 46%
+2024-10-14T03:34:17.106Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 47%
+2024-10-14T03:34:17.108Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 48%
+2024-10-14T03:34:17.112Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 49%
+2024-10-14T03:34:17.114Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 50%
+2024-10-14T03:34:17.118Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 51%
+2024-10-14T03:34:17.121Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 52%
+2024-10-14T03:34:17.126Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 53%
+2024-10-14T03:34:17.128Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 54%
+2024-10-14T03:34:17.131Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 55%
+2024-10-14T03:34:17.133Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 56%
+2024-10-14T03:34:17.135Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 57%
+2024-10-14T03:34:17.137Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 58%
+2024-10-14T03:34:17.139Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 59%
+2024-10-14T03:34:17.142Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 60%
+2024-10-14T03:34:17.144Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 61%
+2024-10-14T03:34:17.146Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 62%
+2024-10-14T03:34:17.149Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 63%
+2024-10-14T03:34:17.152Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 64%
+2024-10-14T03:34:17.154Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 65%
+2024-10-14T03:34:17.156Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 66%
+2024-10-14T03:34:17.159Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 67%
+2024-10-14T03:34:17.162Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 68%
+2024-10-14T03:34:17.164Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 69%
+2024-10-14T03:34:17.166Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 70%
+2024-10-14T03:34:17.169Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 71%
+2024-10-14T03:34:17.172Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 72%
+2024-10-14T03:34:17.174Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 73%
+2024-10-14T03:34:17.177Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 74%
+2024-10-14T03:34:17.180Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 75%
+2024-10-14T03:34:17.182Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 76%
+2024-10-14T03:34:17.184Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 77%
+2024-10-14T03:34:17.186Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 78%
+2024-10-14T03:34:17.188Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 79%
+2024-10-14T03:34:17.190Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 80%
+2024-10-14T03:34:17.194Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 81%
+2024-10-14T03:34:17.196Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 82%
+2024-10-14T03:34:17.198Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 83%
+2024-10-14T03:34:17.201Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 84%
+2024-10-14T03:34:17.204Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 85%
+2024-10-14T03:34:17.207Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 86%
+2024-10-14T03:34:17.209Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 87%
+2024-10-14T03:34:17.212Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 88%
+2024-10-14T03:34:17.215Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 89%
+2024-10-14T03:34:17.217Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 90%
+2024-10-14T03:34:17.220Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 91%
+2024-10-14T03:34:17.222Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 92%
+2024-10-14T03:34:17.224Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 93%
+2024-10-14T03:34:17.226Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 94%
+2024-10-14T03:34:17.228Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 95%
+2024-10-14T03:34:17.230Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 96%
+2024-10-14T03:34:17.233Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 97%
+2024-10-14T03:34:17.235Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 98%
+2024-10-14T03:34:17.237Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 99%
+2024-10-14T03:34:17.239Z [Modules] Streaming discord_voice@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip: 100%
+2024-10-14T03:34:17.240Z [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+2024-10-14T03:34:17.240Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip
+2024-10-14T03:34:17.350Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 6%
+2024-10-14T03:34:17.351Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 7%
+2024-10-14T03:34:17.351Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 11%
+2024-10-14T03:34:17.351Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 20%
+2024-10-14T03:34:17.352Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 32%
+2024-10-14T03:34:17.352Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 40%
+2024-10-14T03:34:17.352Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 45%
+2024-10-14T03:34:17.353Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 54%
+2024-10-14T03:34:17.353Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 62%
+2024-10-14T03:34:17.353Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 72%
+2024-10-14T03:34:17.354Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 81%
+2024-10-14T03:34:17.354Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 86%
+2024-10-14T03:34:17.354Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 90%
+2024-10-14T03:34:17.354Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 95%
+2024-10-14T03:34:17.355Z [Modules] Streaming discord_zstd@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip: 100%
+2024-10-14T03:34:17.355Z [Modules] Finished module downloads. [success: 6] [failure: 0]
+2024-10-14T03:34:17.355Z [Modules] Installing updates...
+2024-10-14T03:34:17.355Z [Modules] Installing discord_desktop_core@1 from /home/jazz/.config/discord/0.0.71/modules/pending/discord_desktop_core-1.zip
+2024-10-14T03:34:17.410Z [Modules] Installing discord_erlpack@1 from /home/jazz/.config/discord/0.0.71/modules/pending/discord_erlpack-1.zip
+2024-10-14T03:34:17.444Z [Modules] Installing discord_spellcheck@1 from /home/jazz/.config/discord/0.0.71/modules/pending/discord_spellcheck-1.zip
+2024-10-14T03:34:17.840Z [Modules] Installing discord_utils@1 from /home/jazz/.config/discord/0.0.71/modules/pending/discord_utils-1.zip
+2024-10-14T03:34:17.932Z [Modules] Installing discord_voice@1 from /home/jazz/.config/discord/0.0.71/modules/pending/discord_voice-1.zip
+2024-10-14T03:34:18.267Z [Modules] Installing discord_zstd@1 from /home/jazz/.config/discord/0.0.71/modules/pending/discord_zstd-1.zip
+2024-10-14T03:34:18.277Z [Modules] Finished module installations. [success: 6] [failure: 0]
+2024-10-14T03:34:18.277Z [Modules] Checking for host updates.
+2024-10-14T03:34:18.361Z [Modules] Host is up to date.
+2024-10-14T03:34:18.361Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2024-10-14T03:34:18.362Z [Modules] No module updates available.
+2024-10-14T03:34:19.784Z [Modules] Starting to install discord_krisp...
+2024-10-14T03:34:19.785Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2024-10-14T03:34:19.785Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip
+2024-10-14T03:34:19.790Z [Modules] Starting to install discord_game_utils...
+2024-10-14T03:34:19.907Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 1%
+2024-10-14T03:34:19.909Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 2%
+2024-10-14T03:34:19.912Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 3%
+2024-10-14T03:34:19.915Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 4%
+2024-10-14T03:34:19.918Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 5%
+2024-10-14T03:34:19.923Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 6%
+2024-10-14T03:34:19.927Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 7%
+2024-10-14T03:34:19.930Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 8%
+2024-10-14T03:34:19.933Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 9%
+2024-10-14T03:34:19.935Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 10%
+2024-10-14T03:34:19.937Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 11%
+2024-10-14T03:34:19.941Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 12%
+2024-10-14T03:34:19.943Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 13%
+2024-10-14T03:34:19.950Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 14%
+2024-10-14T03:34:19.951Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 15%
+2024-10-14T03:34:19.954Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 16%
+2024-10-14T03:34:19.956Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 17%
+2024-10-14T03:34:19.958Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 18%
+2024-10-14T03:34:19.960Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 19%
+2024-10-14T03:34:19.962Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 20%
+2024-10-14T03:34:19.966Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 21%
+2024-10-14T03:34:19.968Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 22%
+2024-10-14T03:34:19.970Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 23%
+2024-10-14T03:34:19.973Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 24%
+2024-10-14T03:34:19.975Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 25%
+2024-10-14T03:34:19.978Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 26%
+2024-10-14T03:34:19.982Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 27%
+2024-10-14T03:34:19.983Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 28%
+2024-10-14T03:34:19.990Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 30%
+2024-10-14T03:34:19.993Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 31%
+2024-10-14T03:34:19.994Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 32%
+2024-10-14T03:34:19.996Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 33%
+2024-10-14T03:34:19.998Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 34%
+2024-10-14T03:34:20.000Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 35%
+2024-10-14T03:34:20.025Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 36%
+2024-10-14T03:34:20.027Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 37%
+2024-10-14T03:34:20.029Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 38%
+2024-10-14T03:34:20.030Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 39%
+2024-10-14T03:34:20.032Z [Modules] Streaming discord_krisp@1 to /home/jazz/.config/discord/0.0.71/modules/pending/discord_krisp-1.zip: 40%

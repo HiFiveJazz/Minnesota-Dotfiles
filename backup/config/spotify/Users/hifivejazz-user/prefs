@@ -1,0 +1,3 @@
+connect.dial_devices="[{\"address\":\"10.0.0.115\",\"app_state\":\"UNKNOWN\",\"created_timestamp\":1729541301,\"device_id\":\"89108a98-5ad6-9602-d94f-689fe7e2a67b\",\"dial_location_url\":\"http://10.0.0.115:56790/dd.xml\",\"display_name\":\"Family Room TV\",\"last_seen\":1729541301,\"manufacturer\":\"Vizio\",\"model_name\":\"M65Q6M-K04\",\"product_cap\":\"\",\"public_ip\":\"\",\"wol\":{\"all_interfaces\":false,\"delay_ms\":50,\"mac\":\"00bd3e688ae4\",\"port\":9,\"retries\":1200}}]"
+audio.play_bitrate_non_metered_migrated=true
+app.player.volume=16384

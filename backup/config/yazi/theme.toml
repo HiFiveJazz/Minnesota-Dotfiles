@@ -1,0 +1,54 @@
+[flavor]
+use = "tokyo-night"
+[manager]
+cwd = { fg = "#000000" }
+
+# Hovered
+hovered = { bg = "#1f2335" }
+preview_hovered = { underline = false }
+
+# Find
+find_keyword = { fg = "yellow", italic = true }
+find_position = { fg = "magenta", bg = "reset", italic = true }
+
+# Marker
+# marker_selected = { fg = "magenta", bg = "magenta" }
+# marker_copied = { fg = "#d7af5f", bg = "#d7af5f" }
+# marker_cut = { fg = "#ff8787", bg = "#ff8787" }
+
+# Tab
+# tab_active = { fg = "#f4cccc", bg = "#8fce00" }
+tab_inactive = { fg = "white", bg = "#4e4e4e" }
+# tab_width = 1
+
+# Border
+border_symbol = "│"
+border_style = { fg = "#1a1c23" }
+
+# Offset
+# folder_offset = [2, 0, 2, 0]
+# preview_offset = [2, 1, 2, 1]
+
+[status]
+separator_style = { fg = "white" }
+
+[tasks]
+border = { fg = "cyan" }
+title = { fg = "cyan" }
+hovered = { underline = true }
+
+[which]
+mask = { bg = "#000000" }
+# cand            = { fg = "#87d7ff" }
+# rest            = { fg = "darkgray" }
+# desc            = { fg = "#af87ff" }
+cand = { fg = "#e1beff" }
+rest = { fg = "darkgray" }
+desc = { fg = "#87afff" }
+separator = "  "
+separator_style = { fg = "darkgray", bold = true }
+
+[completion]
+border = { fg = "white" }
+active = { bg = "darkgray" }
+inactive = {}

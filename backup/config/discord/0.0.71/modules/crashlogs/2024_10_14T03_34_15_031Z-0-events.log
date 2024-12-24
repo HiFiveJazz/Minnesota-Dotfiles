@@ -1,0 +1,16 @@
+2024-10-14T03:34:15.036Z 0: 
+
+----------------------------------------------
+2024-10-14T03:34:15.056Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.71"}, modulepath: /home/jazz/.config/discord/0.0.71/modules
+2024-10-14T03:34:15.075Z 2: ✅ webContents.created web1 ""
+2024-10-14T03:34:15.107Z 3: ✅ window.created win1 "discord"
+2024-10-14T03:34:15.471Z 4: ✅ webContents.did-finish-load web1
+2024-10-14T03:34:18.406Z 5: ✅ webContents.created web2 ""
+2024-10-14T03:34:18.436Z 6: ✅ window.created win2 "Discord"
+2024-10-14T03:34:19.980Z 7: ✅ webContents.did-finish-load web2
+2024-10-14T03:34:20.052Z 8: window.close win2
+2024-10-14T03:34:20.061Z 9: before-quit
+2024-10-14T03:34:20.065Z 10: window.close win1
+2024-10-14T03:34:20.070Z 11: window.close win2
+2024-10-14T03:34:20.075Z 12: webContents.destroyed web1
+2024-10-14T03:34:20.083Z 13: window.closed win1

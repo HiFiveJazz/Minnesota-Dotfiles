@@ -1,0 +1,27 @@
+# yazi.toml
+[manager]
+show_hidden = true
+show_numbers = "relative"
+ratio = [2, 2, 4]
+sort_by = "natural"
+sort_sensitive = false
+sort_dir_first = true
+linemode = "none"
+scrolloff = 200
+image_quality = 90
+# show_symlink = true
+[opener]
+edit = [
+	{ run = 'nvim "$@"', block = true },
+]
+play = [
+	{ run = 'vlc "$@"', orphan = true },
+]
+open = [
+	{ run = 'xdg-open "$@"', desc = "Open" },
+]
+
+
+[setup]
+show_numbers="relative"
+

@@ -1,0 +1,72 @@
+set ui.font "monospace 30"
+set statusbar.font "monospace 30"
+set completion.height 50
+set statusbar.show true
+
+# Completion Groups
+set completion-group-bg       "1a1b26"
+set completion-group-fg       "abb2bf"
+set completion-bg             "1a1b26"
+set completion-highlight-bg   "abb2bf"
+set completion-highlight-bg   "458588"
+set completion-highlight-fg   "abb2bf"
+
+# Notification Errors
+set notificatio-error-bg       "3c3836"
+set notificatio-error-fg       "abb2bf"
+set notificatio-warning-bg     "3c3836"
+set notificatio-warning-fg     "abb2bf"
+set notificatio-bg             "3c3836"
+set notificatio-fg             "abb2bf"
+
+# Index Colors
+set index-bg                   "1d2021"
+set index-fg                   "abb2bf"
+set index-active-bg            "1a1b26"
+set index-active-fg            "abb2bf"
+
+#Input Bar Colors
+set inputbar-bg                "3c3836"
+set inputbar-fg                "abb2bf"
+
+#Status Bar Colors
+set statusbar-bg               "1a1b26"
+set statusbar-fg               "abb2bf"
+
+# Highlight colors
+set highlight-color            "458588"
+set highlight-active-color     "458588"
+
+# Default colors
+set default-bg                 "1d2021"
+set default-bg                 rgba(0,0,0,0.7)
+set default-fg                 "#001512"
+set recolor-lightcolor         "1a1b26"
+set recolor-lightcolor         rgba(0,0,0,0)
+set recolor-darkcolor          "abb2bf"
+
+# Status Bar and Page Padding
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+
+# Keybindings
+map k scroll half-up
+map j scroll half-down
+map 0 toggle_page_mode
+map r reload
+map R rotate
+map K zoom in
+map J zoom out
+  set recolor
+map p print
+set background-transparency 0.5
+
+
+
+
+
+
+
+
+
